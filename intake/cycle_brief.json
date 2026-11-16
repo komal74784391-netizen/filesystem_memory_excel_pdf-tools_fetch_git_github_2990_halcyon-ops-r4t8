@@ -1,40 +1,17 @@
 {
-  "cycle": "2026-11",
+  "cycle": "2026-10",
   "prepared_for": "Dana Whitfield (Learning Operations)",
-  "issued": "2026-11-13",
+  "issued": "2026-10-02",
   "deliverable": "out/exam_manifest.jsonl",
   "assignments": [
-    {
-      "program_code": "DATA-4102",
-      "track": "02",
-      "time_window": "morning",
-      "candidates": [
-        {
-          "candidate_id": "E40244",
-          "candidate_name": "Mikkel Sorensen"
-        },
-        {
-          "candidate_id": "E40257",
-          "candidate_name": "Aiko Tanabe"
-        },
-        {
-          "candidate_id": "E40261",
-          "candidate_name": "Priya Raman"
-        }
-      ]
-    },
     {
       "program_code": "SECU-3310",
       "track": "R",
       "time_window": "morning",
       "candidates": [
         {
-          "candidate_id": "E33108",
-          "candidate_name": "Noor Haddad"
-        },
-        {
-          "candidate_id": "E33125",
-          "candidate_name": "Diego Vargas"
+          "candidate_id": "E33102",
+          "candidate_name": "Ravi Menon"
         }
       ]
     },
@@ -44,23 +21,8 @@
       "time_window": "morning",
       "candidates": [
         {
-          "candidate_id": "E14512",
-          "candidate_name": "Tomasz Nowak"
-        }
-      ]
-    },
-    {
-      "program_code": "NETW-2220",
-      "track": "B",
-      "time_window": "afternoon",
-      "candidates": [
-        {
-          "candidate_id": "E22041",
-          "candidate_name": "Hannah Osei"
-        },
-        {
-          "candidate_id": "E22047",
-          "candidate_name": "Yusuf Demir"
+          "candidate_id": "E14508",
+          "candidate_name": "Beata Kowalczyk"
         }
       ]
     }

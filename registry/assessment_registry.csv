@@ -1,33 +1,9 @@
 program_code,cohort_label,delivery_mode,exam_date,time_slot,room,seats,candidate_id_range,lead_invigilator
-DATA-4102,DATA-4102: Track 03,On-site Proctored,2026-11-21,13:30-15:30,,,,
-,,,,,Lab Annex 3B,18,E40201-E40218,S. Lindqvist
-,,,,,Lab Annex 3C,18,E40219-E40236,T. Brar
-NETW-2220,NETW-2220: Track A,On-site Proctored,2026-11-24,09:00-11:00,,,,
-,,,,,Harbor Hall 2A,24,E22010-E22033,R. Okonkwo
-NETW-2220,NETW-2220: Track B,On-site Proctored,2026-11-24,13:00-15:00,,,,
-,,,,,Harbor Hall 2C,24,E22034-E22057,M. Ferreira
-,,,,,Harbor Hall 2D,12,E22058-E22069,M. Ferreira
-PMGT-1450,PMGT-1450: Track G,On-site Proctored,2026-11-26,10:00-12:00,,,,
+SECU-3310,SECU-3310: Track R,On-site Proctored,2026-10-07,09:00-11:30,,,,
+,,,,,Vault Lab 1,16,E33101-E33116,K. Adeyemi
+PMGT-1450,PMGT-1450: Track G,On-site Proctored,2026-10-09,10:00-12:00,,,,
 ,,,,,Summit Room 1,20,E14501-E14520,A. Novak
-SECU-3310,SECU-3310: Track R,On-site Proctored,2026-12-01,09:00-11:30,,,,
-,,,,,Vault Lab 2,16,E33101-E33116,K. Adeyemi
-,,,,,Vault Lab 3,16,E33117-E33132,J. Park
-DATA-4102,DATA-4102: Track 01 & 02,On-site Proctored,2026-11-28,09:00-11:00,,,,
-,,,,,Lab Annex 4A,16,E40237-E40252,H. Nakamura
-,,,,,Lab Annex 4B,16,E40253-E40268,P. Kowalski
-AIPR-3050,AIPR-3050: Track M,Hybrid Proctored,2026-12-02,14:00-16:00,,,,
-,,,,,Studio Grid 5,30,E30501-E30530,L. Fontaine
-CLDD-2805,CLDD-2805: Track Z,On-site Proctored,2026-12-04,09:30-11:30,,,,
+NETW-2220,NETW-2220: Track A,On-site Proctored,2026-10-13,09:00-11:00,,,,
+,,,,,Harbor Hall 2A,24,E22010-E22033,R. Okonkwo
+CLDD-2805,CLDD-2805: Track Z,On-site Proctored,2026-10-15,09:30-11:30,,,,
 ,,,,,Cloud Lab C1,22,E28051-E28072,V. Sokolov
-,,,,,Cloud Lab C2,22,E28073-E28094,N. Achterberg
-FINC-3900,FINC-3900: Track K,Remote Proctored,2026-12-08,13:00-15:00,,,,
-,,,,,Remote Pod K,40,E39001-E39040,C. Mbeki
-HLTH-1200,HLTH-1200: Track S,On-site Proctored,2026-12-09,09:00-10:30,,,,
-,,,,,Wellness Studio 7,26,E12001-E12026,G. Petrakis
-MKTG-2010,MKTG-2010: Track Q,On-site Proctored,2026-12-10,13:30-15:30,,,,
-,,,,,Forum Room 3,28,E20101-E20128,B. Lindgren
-LEAD-4500,LEAD-4500: Track N,Hybrid Proctored,2026-12-12,09:00-12:00,,,,
-,,,,,Boardroom North,14,E45001-E45014,O. Castellanos
-,,,,,Boardroom South,14,E45015-E45028,O. Castellanos
-OPSM-3350,OPSM-3350: Track D,On-site Proctored,2026-12-15,14:00-16:00,,,,
-,,,,,Ops Bay 1,18,E33501-E33518,D. Ivanova
